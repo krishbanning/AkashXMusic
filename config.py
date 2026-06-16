@@ -30,9 +30,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ʙ ᴏ ᴛ   ᴀ ɴ ᴅ   ᴏ ᴡ ɴ ᴇ ʀ   ɪ ɴ ғ ᴏ ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OWNER_USERNAME = getenv("OWNER_USERNAME", "cherryxowner")
-BOT_USERNAME = getenv("BOT_USERNAME", "ferrarimusicbot")
-BOT_NAME = getenv("BOT_NAME", "FERRARI")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Axyowner")
+BOT_USERNAME = getenv("BOT_USERNAME", "bmwsongbot")
+BOT_NAME = getenv("BOT_NAME", "BMW")
 ASSUSERNAME = getenv("ASSUSERNAME", "krish")
 
 
@@ -45,7 +45,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 # ❖ ᴀ ᴘ ɪ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 YTPROXY_URL = getenv("YTPROXY_URL", "https://tgapi.xbitcode.com")
-YT_API_KEY = getenv("YT_API_KEY", "") # youtube song api key, generate free key or buy paid plan from http://music.xbitcode.com
+YT_API_KEY = getenv("YT_API_KEY", "xbit_1wHg1Rzl5SbSA4RWjbC9O7Plpf_EikQB") # youtube song api key, generate free key or buy paid plan from http://music.xbitcode.com
 API_URL = getenv("API_URL", "https://api.nexgenbots.xyz") #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
 API_KEY = getenv("API_KEY", "") # youtube song api key, generate free key or buy paid plan from https://console.nexgenbots.xyz
@@ -77,8 +77,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ s ᴜ ᴘ ᴘ ᴏ ʀ ᴛ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/cherryxnetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/cherryxupdate")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Axynetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Axychats")
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -143,19 +143,19 @@ DEBUG_IGNORE_LOG = True
 # ━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ɪ ᴍ ᴀ ɢ ᴇ   ᴜ ʀ ʟ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/qpllpk.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/u2d0p7.jpg")
-HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/qpllpk.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/iz6z4g.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/u2d0p7.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/iz6z4g.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/u2d0p7.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/qpllpk.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/iz6z4g.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/aklkay.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/35tfwv.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/35tfwv.jpg")
+HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/sm18vd.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/sm18vd.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/sm18vd.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/sm18vd.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/sm18vd.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/35tfwv.jpg"
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
